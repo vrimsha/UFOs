@@ -18,9 +18,9 @@ Please see below city filter example:
 
 ## Summary: 
 
-![UFO_Finder](UFO_Finder.png)
-
 As a result, we have the webpage with filters of the UFO data. You can search by date, the city, state, country and shape at the same time.
+
+![UFO_Finder](UFO_Finder.png)
 
 However, a drawback of this new design is that you cannot export the filtered data in excel of PDF file. I would recomend to add a new button "download as an excel of PDF" the search result. My second recommendation is to add pictures of shapes of UFO Sightings.
 
